@@ -13,6 +13,6 @@ Shared, growing data set of company greenhouse-gas disclosures for CSOL 204 (Car
 | [`SOURCES.md`](SOURCES.md) | Every document cited |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to add data by pull request |
 
-**Status (4 Nov 2026):** starter data was compiled with AI assistance from company documents. Treat every value as something to verify against its page. Spot-checked against the source PDF (3 values each, Scope 1, market-based Scope 2, Scope 3): Amazon, John Deere, Microsoft (the FY2025 Scope 3 total appears on pdf 3, not pdf 4 as cited), NVIDIA, Rivian, Tesla (all values). Not yet spot-checked (their sites block the automated PDF check; a person should check 3 values each): IKEA, Nestlé, Patagonia, PepsiCo. Known gaps: John Deere FY2022–FY2024, Patagonia FY2024 and earlier, Tesla 2022 and earlier, SpaceX (no public inventory located).
+**Status (4 Nov 2026):** starter data was compiled with AI assistance from company documents. Treat every value as something to verify against its page. Spot-checked against the source PDF (3 values each, Scope 1, market-based Scope 2, Scope 3): Amazon, John Deere, Microsoft (the FY2025 Scope 3 total appears on pdf 3, not pdf 4 as cited), NVIDIA, Rivian, Tesla (all values); IKEA, Nestlé, Patagonia, PepsiCo (5 values each, by an independent ChatGPT review). Restatement flags are not yet independently checked. Known gaps: John Deere FY2022–FY2024, Patagonia FY2024 and earlier, Tesla 2022 and earlier, SpaceX (no public inventory located).
 
 Check the data: `python tools/validate.py`

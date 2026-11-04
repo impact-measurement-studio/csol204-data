@@ -53,3 +53,7 @@ Fiscal year runs 1 May to 30 April (the FY25 report says "fiscal year ending Apr
 - segments.csv: 11 rows
 
 All files were written with Python's csv module. Validation passed: every row has the header's field count, and the segment rows sum to the printed totals.
+
+## Review note (4 Nov 2026)
+
+The FY25 Climate Risk Report names the reporting entity as **Patagonia Works**; these files use "Patagonia, Inc.". Check that emissions and revenue cover the same entity before calculating any intensity.

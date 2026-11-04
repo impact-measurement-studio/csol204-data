@@ -11,7 +11,7 @@ Every document the starter data cites, by company. Generated from the CSVs; each
 - [Report of Independent Accountants (EY), GHG Scope 1 and 2, year ended 31 Dec 2024](https://sustainability.aboutamazon.com/2024-ghg-verification-scope-1-2.pdf)
 
 ## ikea
-- [IKEA Climate Report FY24 (published by Inter IKEA Group)](https://www.ikea.com/global/en/images/IKEA_Climate_Report_FY_24_2025_01_27_9136cd2347.pdf.)
+- [IKEA Climate Report FY24 (published by Inter IKEA Group)](https://www.ikea.com/global/en/images/IKEA_Climate_Report_FY_24_2025_01_27_9136cd2347.pdf)
 - [Ingka Group Annual Summary and Sustainability Report FY24](https://www.ingka.com/static/ingkagroup_annualsummaryandsustainabilityreport_fy24.pdf)
 - [Ingka Group Annual Summary and Sustainability Report FY25](https://www.ikea.com/dk/da/files/pdf/c7/70/c7703fa5/ingkagroup_annualsummaryandsustainabilityreport_fy25.pdf)
 - [Inter IKEA Group Sustainability Statement FY25](https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/fy25-financial-reports/inter-ikea-group-sustainability-statement-fy25.pdf?rev=e31e4c25b5754ad998ed49a8b62c340d&sc_lang=en)

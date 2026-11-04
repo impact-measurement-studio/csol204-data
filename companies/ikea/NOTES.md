@@ -16,7 +16,7 @@ Each group's figures are recorded under its own `reporting_entity`, and nothing 
    - Value-chain table: p. 75.
    - Revenue: p. 8.
 2. Inter IKEA Group Sustainability Statement FY25: https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/fy25-financial-reports/inter-ikea-group-sustainability-statement-fy25.pdf?rev=e31e4c25b5754ad998ed49a8b62c340d&sc_lang=en
-3. IKEA Climate Report FY24, published by Inter IKEA Group in Jan 2025. The GHG inventory is on p. 48. URL: https://www.ikea.com/global/en/images/IKEA_Climate_Report_FY_24_2025_01_27_9136cd2347.pdf.
+3. IKEA Climate Report FY24, published by Inter IKEA Group in Jan 2025. The GHG inventory is on p. 48. URL: https://www.ikea.com/global/en/images/IKEA_Climate_Report_FY_24_2025_01_27_9136cd2347.pdf
    - The URL only opened with the trailing "." shown, as indexed by search. Without the dot it returned a client error.
 4. Inter IKEA Holding B.V. Annual Report FY25. Income statement p. 15; Note 17 p. 44. https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/fy25-financial-reports/inter-ikea-holding-bv-annual-report-fy25-final.pdf?rev=10c81cc96c064789932e13ebf6229492&sc_lang=en
 5. Inter IKEA Holding B.V. Annual Report FY23. Income statement p. 15. https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/inter-ikea-holding-bv-annual-report-fy23-final.pdf?sc_lang=en
