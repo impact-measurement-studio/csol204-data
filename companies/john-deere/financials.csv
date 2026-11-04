@@ -1,0 +1,3 @@
+company_slug,reporting_entity,period_label,period_end,period_type,revenue_value,currency,unit_multiplier,source_doc,source_url,source_page,source_quote
+john-deere,Deere & Company,FY2025,2025-11-02,fiscal,45684,USD,million,"Deere & Company Form 10-K for fiscal year ended November 2, 2025",https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm,Statements of Consolidated Income (index p. 47),"Net Sales and Revenues ... Total 45,684"
+john-deere,Deere & Company,FY2021,2021-10-31,fiscal,44024,USD,million,"Deere & Company Form 10-K for fiscal year ended October 31, 2021",https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/de-20211031x10k.htm,Statement of Consolidated Income,"Net Sales and Revenues ... Total 44,024"

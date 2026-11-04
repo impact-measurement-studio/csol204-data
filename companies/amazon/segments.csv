@@ -1,0 +1,4 @@
+company_slug,reporting_entity,period_label,split_type,split_label,metric_type,value,unit,additive,source_doc,source_url,source_page,source_quote
+amazon,"Amazon.com, Inc.",2025,segment,North America,revenue,426305,USD million,y,"Amazon.com, Inc. Form 10-K for FY2025",https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm,"Item 8, Note 10 — Segment Information",Net sales
+amazon,"Amazon.com, Inc.",2025,segment,International,revenue,161894,USD million,y,"Amazon.com, Inc. Form 10-K for FY2025",https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm,"Item 8, Note 10 — Segment Information",Net sales
+amazon,"Amazon.com, Inc.",2025,segment,AWS,revenue,128725,USD million,y,"Amazon.com, Inc. Form 10-K for FY2025",https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm,"Item 8, Note 10 — Segment Information",Net sales

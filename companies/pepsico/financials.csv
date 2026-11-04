@@ -1,0 +1,4 @@
+company_slug,reporting_entity,period_label,period_end,period_type,revenue_value,currency,unit_multiplier,source_doc,source_url,source_page,source_quote
+pepsico,"PepsiCo, Inc.",2025,2025-12-27,fiscal,93925,USD,million,PepsiCo Form 10-K fiscal 2025,https://investor.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q4-2025-form-10k.pdf,p. 58 (Consolidated Statement of Income),"Net Revenue $ 93,925 $ 91,854 $ 91,471"
+pepsico,"PepsiCo, Inc.",2024,2024-12-28,fiscal,91854,USD,million,PepsiCo Form 10-K fiscal 2025,https://investor.pepsico.com/docs/pepsico-5v9wci20/media/Files/investors/q4-2025-form-10k.pdf,p. 58 (Consolidated Statement of Income),"Net Revenue $ 93,925 $ 91,854 $ 91,471"
+pepsico,"PepsiCo, Inc.",2022,2022-12-31,fiscal,86392,USD,million,PepsiCo Form 10-K fiscal 2024,https://investor.pepsico.com/docs/default-source/investors/q4-2024/q4-2024-form-10k_kgcva0jf89d2927o.pdf,p. 61 (Consolidated Statement of Income),"Net Revenue $ 91,854 $ 91,471 $ 86,392"

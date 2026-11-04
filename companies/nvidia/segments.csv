@@ -1,0 +1,3 @@
+company_slug,reporting_entity,period_label,split_type,split_label,metric_type,value,unit,additive,source_doc,source_url,source_page,source_quote
+nvidia,NVIDIA Corporation,FY2026,segment,Compute & Networking,revenue,193479,USD million,y,"NVIDIA Corporation Form 10-K for fiscal year ended January 25, 2026",https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm,"Item 7 MD&A, Revenue by Reportable Segments","Compute & Networking $193,479"
+nvidia,NVIDIA Corporation,FY2026,segment,Graphics,revenue,22459,USD million,y,"NVIDIA Corporation Form 10-K for fiscal year ended January 25, 2026",https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm,"Item 7 MD&A, Revenue by Reportable Segments","Graphics 22,459"
