@@ -13,6 +13,6 @@ Shared, growing data set of company greenhouse-gas disclosures for CSOL 204 (Car
 | [`SOURCES.md`](SOURCES.md) | Every document cited |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to add data by pull request |
 
-**Status (4 Nov 2026):** starter data was compiled with AI assistance from company documents and is being spot-checked. Treat every value as something to verify against its page. Known gaps: Tesla emissions (not yet loaded), John Deere FY2022–FY2024, Patagonia FY2024 and earlier, SpaceX (no public inventory located).
+**Status (4 Nov 2026):** starter data was compiled with AI assistance from company documents and is being spot-checked. Treat every value as something to verify against its page. Known gaps: John Deere FY2022–FY2024, Patagonia FY2024 and earlier, SpaceX (no public inventory located).
 
 Check the data: `python tools/validate.py`
