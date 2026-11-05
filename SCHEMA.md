@@ -2,7 +2,7 @@
 
 Every company has a folder `companies/<slug>/` with three CSV files and a `NOTES.md`. All files are UTF-8 CSV with a header row. Quote any field that contains a comma.
 
-Slugs: `amazon`, `rivian`, `nvidia`, `john-deere`, `patagonia`, `nestle`, `ikea`, `pepsico`, `tesla`, `microsoft`, `spacex`, `sony`.
+Slugs: `amazon`, `rivian`, `nvidia`, `john-deere`, `patagonia`, `nestle`, `ikea`, `pepsico`, `tesla`, `microsoft`, `spacex`, `sony`, `app`.
 
 ## The rules that matter most
 

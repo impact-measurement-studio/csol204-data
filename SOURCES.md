@@ -10,6 +10,10 @@ Every document the starter data cites, by company. Generated from the CSVs; each
 - [Report of Independent Accountants (EY), GHG Scope 1 and 2, year ended 31 Dec 2023](https://sustainability.aboutamazon.com/2023-ghg-verification-scope-1-2.pdf)
 - [Report of Independent Accountants (EY), GHG Scope 1 and 2, year ended 31 Dec 2024](https://sustainability.aboutamazon.com/2024-ghg-verification-scope-1-2.pdf)
 
+## app
+- [APP Sustainability Report 2025 (PT APP Purinusa Ekapersada)](https://app.co.id/documents/20123/0/SR_PT_APP_PURINUSA_EKAPERSADA_2025_ENGLISH.pdf/adff5ea3-ee5e-ac2f-6f46-bb984e3b8b8a?t=1789224404027)
+- [APP reports and CDP responses (all years)](https://app.co.id/policies-and-documents)
+
 ## ikea
 - [IKEA Climate Report FY24 (published by Inter IKEA Group)](https://www.ikea.com/global/en/images/IKEA_Climate_Report_FY_24_2025_01_27_9136cd2347.pdf)
 - [Ingka Group Annual Summary and Sustainability Report FY24](https://www.ingka.com/static/ingkagroup_annualsummaryandsustainabilityreport_fy24.pdf)
