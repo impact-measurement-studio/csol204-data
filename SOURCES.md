@@ -56,6 +56,11 @@ Every document the starter data cites, by company. Generated from the CSVs; each
 ## spacex
 - [SpaceX Final Prospectus (Form 424B4), filed 12 Jun 2026](https://www.sec.gov/Archives/edgar/data/1181412/000162828026042639/spaceexplorationtechnologi.htm)
 
+## sony
+- [Sony Group Sustainability Report 2026, Data Book 2026](https://www.sony.com/en/SonyInfo/csr/library/reports/SustainabilityReport2026_data_E.pdf)
+- [Sony Group Consolidated Financial Summary, fiscal year ended March 31, 2026](https://www.sony.com/en/SonyInfo/IR/library/er/pdf/25q4_sony.pdf)
+- [Sony Group Consolidated Financial Summary, fiscal year ended March 31, 2025](https://www.sony.com/en/SonyInfo/IR/library/er/pdf/24q4_sony.pdf)
+
 ## tesla
 - [Tesla 2025 Impact Report (Extended Version)](https://www.tesla.com/ns_videos/2025-extended-version-tesla-impact-report.pdf)
 - [Tesla, Inc. Form 10-K for fiscal year ended December 31, 2025](https://ir.tesla.com/_flysystem/s3/sec/000162828026003952/tsla-20251231-gen.pdf)
